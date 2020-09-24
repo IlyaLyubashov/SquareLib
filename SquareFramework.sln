@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SquareLib", "SquareFramework\SquareLib.csproj", "{521C10AE-2015-41FE-831A-F846E67D5CFA}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SquareLib.Tests", "SquareLib.Tests\SquareLib.Tests.csproj", "{3F318644-044A-4498-B897-E0253F14EB0D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{521C10AE-2015-41FE-831A-F846E67D5CFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{521C10AE-2015-41FE-831A-F846E67D5CFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{521C10AE-2015-41FE-831A-F846E67D5CFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{521C10AE-2015-41FE-831A-F846E67D5CFA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F318644-044A-4498-B897-E0253F14EB0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F318644-044A-4498-B897-E0253F14EB0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F318644-044A-4498-B897-E0253F14EB0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F318644-044A-4498-B897-E0253F14EB0D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5CD9A33D-FB48-43BA-8E19-453449C09F2A}
+	EndGlobalSection
+EndGlobal
